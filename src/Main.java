@@ -79,7 +79,7 @@ public class Main {
 
         // Задание 5
         System.out.println("\nЗадание 5");
-        int monthNumber,f=12;
+        int monthNumber;
         System.out.print("Введите номер месяца и узнаете какой это сезон: ");
         monthNumber=input.nextInt();
         switch (monthNumber){
